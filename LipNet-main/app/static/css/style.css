@@ -1,0 +1,25 @@
+.sp{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 15px;
+    transition: all 0.3s ease;
+}
+
+.alignment{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Alignment contents */
+0 666 sil
+666 1066 goodmorning
+1066 1266 sir mam
+1266 1533 please
+1533 1733 give
+1733 2033 fullmark.
+2033 2366 sil 
